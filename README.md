@@ -1,5 +1,7 @@
-# AyED - Trabajo Practico 0
+# AyED -
+
 Nombre y Apellido: Camila Corregidor 
+
 Comision: K1202
 
 g++ (Rev1, Built by MSYS2 project) 15.1.0
